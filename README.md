@@ -12,7 +12,7 @@ And OMG! Probs to the guy who codet this! OMFG this looks so damn real! His Idea
 But at least he steal accounts with this page so it is crap. So sad...
 But i was so amazed that i decidet to write a code where i try my thousands steam accounts... because i reaaaalllyyy didnt knew exactly my email an password i tried a lot of them ;)
 
-# Tha "Magic"
+# The "Magic"
 It is very simple. I use a txt file of round about 4000 first names wich i found on github. I read the file in a list and generate a email (name@gmail.com) and a passwort (nameXXXX) and start a urllib open with the GET request wich i scanned on the website by typing in some test data on the login field.
 
 # Installation
