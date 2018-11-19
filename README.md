@@ -3,10 +3,10 @@ This tool ist a quick an dirty programm to confuse phishing sites.
 
 # The Story
 A reddit user postet in the /csgo thread. 
-'''
+```
 "[PSA] Fishing csgo website!!
 Hello, i don't know if this is the best place for posting this. I have been a victim of phising in the following website: https://csgoxxmagic.pro/. I'm trying to recover my Steam account and i would like to advise everyone about this website. Definitly not legit ;(."
-'''
+```
 So i decidet to take a look at the phishing site.
 And OMG! Probs to the guy who codet this! OMFG this looks so damn real! His Idea to build a frame inside hist Page so he can fake the Valve SSL picture is amazing! I am very impressed about the creativity this scammer uses!
 But at least he steal accounts with this page so it is crap. So sad...
